@@ -10,7 +10,6 @@ A single-page WebGL-based visualizer for 3D mathematical surfaces — built with
 - 🧭 Mini compass for axis orientation (X, Y, Z)
 - 🌐 Trackball-style zoom and pan UI
 - 🖤 Dark theme with glowing accents
-- 📌 Credits: A project by M N Adithya
 
 ## 🛠 Usage
 
