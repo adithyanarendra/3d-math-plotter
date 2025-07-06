@@ -2,8 +2,6 @@
 
 A single-page WebGL-based visualizer for 3D mathematical surfaces — built without any external libraries!
 
-![Screenshot](screenshot.png) <!-- (Optional: add an image named screenshot.png to your repo) -->
-
 ## ✨ Features
 
 - 📈 Plot custom 3D equations (z = f(x, y))
